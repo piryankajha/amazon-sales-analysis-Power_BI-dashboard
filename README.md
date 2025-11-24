@@ -19,7 +19,10 @@ It helps stakeholders make quick, data-driven decisions based on clear visual an
 
 
 ## 📷 Dashboard Preview
-![Amazon Sales Dashboard](/mnt/data/76f04c8d-dc76-4ef3-b954-05c5bdee3eb2.png))
+<p align="center">
+  <img src="snapshot .png" alt="Dashboard Preview" width="800">
+</p>
+
 
 
 
